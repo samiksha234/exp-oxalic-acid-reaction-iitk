@@ -1,4 +1,4 @@
-<b>Materials & Reagents Required:</b>
+<b>Materials & Reagents Required: </b>
 
 1)  Temperature controlled water bath.
 2)	Volumetric flask (250 ml)
