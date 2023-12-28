@@ -6,9 +6,9 @@
 4)	Test tubes
 5)	Micropipette (5 ml)
 
-<b>Procedure in laboratory (diagram)</b>
+<b>Procedure in laboratory (diagram)</b><br>
 <br>
-<centre><img src="images/fig2.jpg"  text-align="center" width="500" height="300" alt=""></centre><br>
+<centre><img src="images/fig2.jpg"  width="500" height="300" alt=""></centre><br>
 <centre><img src="images/fig3.png" text-align="center"></centre>
 <img src="images/fig4.jpg">
 <br>
