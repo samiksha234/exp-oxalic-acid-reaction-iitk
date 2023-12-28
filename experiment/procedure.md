@@ -8,8 +8,8 @@
 
 <b>Procedure in laboratory (diagram)</b><br>
 <br>
-<centre><img src="images/fig2.jpg"  width="500" height="300" alt=""></centre><br>
-<centre><img src="images/fig3.png" text-align="center"></centre>
+<centre><img src="images/fig2.jpg" width="700" height="300" alt=""></centre><br>
+<centre><img src="images/fig3.png" ></centre>
 <img src="images/fig4.jpg">
 <br>
 <img src="images/fig5.png">
