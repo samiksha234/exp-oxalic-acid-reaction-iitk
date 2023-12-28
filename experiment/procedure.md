@@ -9,9 +9,9 @@
 <b>Procedure in laboratory (diagram)</b><br>
 <br>
 
-<p style="align:center"><img src="images/fig2.jpg" width="700" height="300" alt=""></p><br>
-<p style="align:center"><img src="images/fig3.png"></p><br>
-<p style="align:center"><img src="images/fig4.jpg"></p><br>
+<p style="align:center"><img src="images/fig2.jpg" width="700" height="300" alt=""></p>
+<p style="align:center"><img src="images/fig3.png"></p>
+<p style="align:center"><img src="images/fig4.jpg"></p>
 <br>
 <img src="images/fig5.png">
 <br>
