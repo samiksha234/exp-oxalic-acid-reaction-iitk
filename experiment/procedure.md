@@ -34,7 +34,7 @@ k = rate / [KMnO4] [Oxalic Acid]<br>
 
 <img src="images/table.png"><br>
 <br>
-<img src="images/fig7.jpg" width="300" height="300" alt="">
+<img src="images/fig7.jpg" width="400" height="300" alt="">
 <br>
 Therefore, 
 Slope = -Ea/R = - 8270 K
