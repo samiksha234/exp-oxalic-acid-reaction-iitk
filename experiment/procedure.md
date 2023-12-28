@@ -10,8 +10,7 @@
 <br>
 <img src="images/fig2.jpg"  width="800" height="300" alt="">
 
-
-<img src="images/fig3.png"></div>
+<centre><img src="images/fig3.png"><cemter>
 
 <img src="images/fig4.jpg" width="800" height="300" alt="">
 <br>
