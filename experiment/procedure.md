@@ -16,9 +16,9 @@
 <br>
 <img src="images/fig5.png"width="600" height="400" alt="">
 <br>
-<b>Procedure in laboratory</b>
+<b>Procedure in laboratory</b><br>
 <br>
-<img src="images/fig6.jpg"width="300" height="200" alt="">
+<img src="images/fig6.jpg"width="300" height="300" alt="">
 <br>
 <b>Data and the analysis:</b>
 <br>
