@@ -13,9 +13,9 @@
 
 <img src="images/fig3.png"></div>
 
-<img src="images/fig4.jpg" width="400" height="300" alt="">
+<img src="images/fig4.jpg" width="800" height="300" alt="">
 <br>
-<img src="images/fig5.png">
+<img src="images/fig5.png"width="800" height="300" alt="">
 <br>
 <b>Procedure in laboratory</b>
 <br>
