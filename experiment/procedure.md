@@ -18,7 +18,7 @@
 <br>
 <b>Procedure in laboratory</b>
 <br>
-<img src="images/fig6.jpg">
+<img src="images/fig6.jpg"width="300" height="200" alt="">
 <br>
 <b>Data and the analysis:</b>
 <br>
