@@ -13,7 +13,7 @@
 
 <img src="images/fig3.png"></div>
 
-<img src="images/fig4.jpg">
+<img src="images/fig4.jpg" width="800" height="400" alt="">
 <br>
 <img src="images/fig5.png">
 <br>
