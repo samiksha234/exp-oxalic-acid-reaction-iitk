@@ -6,7 +6,7 @@ k=Ae<sup>-Ea/RT</sup>				   (1)<br>
 
 where R is the ideal gas constant, T is the temperature in Kelvin, Ea is the activation energy and A is a constant called the frequency factor, which is related to the fraction of collisions between reactants having the proper orientation to form an activated complex. Taking natural logarithm of the above equation we get 
 
-ln⁡k=-Ea/RT+ln⁡A					(2)<br>
+ln⁡k=-Ea/RT+ln⁡A				(2)<br>
 
 Thus, a plot of ln k vs 1/T yiels a straight line with negative slope = –Ea/R.<br>
 
