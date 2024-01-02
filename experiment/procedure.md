@@ -12,9 +12,9 @@
 <br>
 
 <centre><Img src="images/fig3.png"></centre><br></br>
-<img src="images/fig4.jpg" width="600" height="300" alt="">
+<img src="images/fig4.jpg" width="600" height="300" alt=""><br>
 <br>
-<img src="images/fig5.png"width="600" height="400" alt="">
+<img src="images/fig5.png"width="600" height="400" alt=""><br>
 <br>
 <b>Procedure in laboratory</b><br>
 <br>
