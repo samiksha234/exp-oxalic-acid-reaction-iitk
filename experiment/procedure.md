@@ -9,7 +9,7 @@
 <b>Procedure in laboratory (diagram)</b><br>
 <br>
 <img src="images/fig2.jpg"  width="600" height="300" alt="">
-<p align:center width="100%">
+<p align:center width="50">
     <img width="33%" src="images/fig3.png">
 </p>
 <img src="images/fig4.jpg" width="600" height="300" alt="">
